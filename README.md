@@ -19,8 +19,8 @@
 👉 [Comply App Case Study on Notion](https://www.notion.so/Comply-Web-Mobile-App-22f3f213f7a880d8b789e0707b4f50fa)
 
 🌐 **Live Demo**:  
-👉 [www.comply.com](http://82.25.84.31/)
-
+👉 [https://buildingcomply.com.au/](https://buildingcomply.com.au/)
+👉 [App Store: Comply-Builder & Traders ](https://apps.apple.com/us/app/comply-builder-tradies/id6747255353)
 ---
 
 ## 🧑‍🤝‍🧑 System Overview
